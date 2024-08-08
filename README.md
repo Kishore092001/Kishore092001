@@ -22,4 +22,4 @@ Keen to stay updated with the latest advancements and best practices in the fiel
 Feel free to reach out to me via :
 - Email:kishoregopal@gmail.com
 - Phone: +91 9025582598
-- LinkedIn: [Kishore GC]((https://www.linkedin.com/in/kishoregc/))
+- LinkedIn: [Kishore GC](https://www.linkedin.com/in/kishoregc/)
